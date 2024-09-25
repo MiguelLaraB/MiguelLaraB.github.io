@@ -1,0 +1,12 @@
+h3, table {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h3 {
+    width: 0px;
+    padding-left: 10px;
+    height: 43px; /* Asegúrate de que el cuadro cubra toda la altura del h3 */
+    background-color: purple;
+    display: inline-block;
+  }
+  
