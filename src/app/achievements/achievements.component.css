@@ -1,5 +1,4 @@
 h3, table {
-<<<<<<< HEAD
     font-family: 'Roboto', sans-serif;
   }
 
@@ -10,15 +9,3 @@ h3, table {
     background-color: purple;
     display: inline-block;
   }
-=======
-  font-family: 'Roboto', sans-serif;
-}
-
-h3 {
-  width: 0px;
-  padding-left: 10px;
-  height: 20px; /* Asegúrate de que el cuadro cubra toda la altura del h3 */
-  background-color: purple;
-  display: inline-block;
-}
->>>>>>> ac417eb8fe4a74d39bf82af3e5d559aa913a8fea
